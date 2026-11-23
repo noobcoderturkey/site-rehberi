@@ -1,0 +1,16 @@
+---
+description: Oturum kurallar.md ile başlar, günlükle biter, önemli dilim main'e push edilir.
+alwaysApply: true
+---
+
+Bu repoda çalışırken ilk iş `kurallar.md` dosyasını baştan okumaktır. Okumadan dosya değiştirme.
+
+İstenen işi o el kitabının içinde yap. Marka alanları boşken sayfa üretme. Uydurma müşteri, rakam veya alıntı yazma.
+
+İş bitince `kurallar.md` içindeki Günlük bölümüne yeni kaydı üste ekle. Eski kaydı silme. Kayıtta tarih, ne bitti, sıradaki iş ve commit olsun.
+
+Önemli dilim tek commit ile `main`'e push edilir. Önemli dilim: kural dosyası, skill kurulumu, `PRODUCT.md`, `DESIGN.md`, sayfa veya görsel sistem. Yazım düzeltmesi ayrı push beklemez; o dilimin commit'ine girer.
+
+Force push yok. `--no-verify` yok. Git config değişmez.
+
+Bu repo için commit ve push, kullanıcı o turda ayrıca "commit et" demese de yapılır. Başka repolara uygulanmaz.
