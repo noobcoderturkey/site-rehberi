@@ -73,7 +73,7 @@ Yeni kayıt bu başlığın hemen altına eklenir.
 
 - Ne bitti: Yusufmintaz tanıtım sayfası yayında olacak şekilde yazıldı. İki fiyat, Güneş Tekstil ve Mebelport, WhatsApp +90 505 260 88 37. Düz HTML. 390px genişlikte yatay kaydırma yok. WhatsApp `905052608837` numarasına, iş linkleri canlı sitelere gidiyor.
 - Sıradaki iş: Şehir hâlâ boş. Ad değişirse metindeki Yusufmintaz değişir. Piksel ve reklam metni yok.
-- Commit:
+- Commit: 3ae3702b6f18231d1e5f2e3c64a0cfc6ffa2a5cd
 
 ### 2026-11-23
 
