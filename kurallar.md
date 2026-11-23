@@ -64,4 +64,4 @@ Yeni kayıt bu başlığın hemen altına eklenir.
 
 - Ne bitti: Public repo açıldı. El kitabı, oturum kuralı ve Impeccable (Cursor, proje kapsamı, hook) eklendi. `PRODUCT.md` onaylanan brief’ten yazıldı. Marka alanları ve stack boş. Sayfa yok.
 - Sıradaki iş: Marka adı, şehir, telefon, WhatsApp ve gerçek işler dolduktan sonra stack seçilip mobil tanıtım sayfası kurulacak.
-- Commit:
+- Commit: 7c97731b545ae1abc6b3e4d510a124f91897d6c1
