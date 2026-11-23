@@ -12,7 +12,7 @@ Site, şunları kurmak isteyenlere yol gösteren bir tanıtım olacak:
 - kişisel web sitesi
 - küçük ve orta ölçekli işletme sitesi
 
-Yapılmış gerçek işlere atıf verilir. Meta reklamı, piksel ve reklam metni bu el kitabının kapsamında değildir; sayfa yayına girmeden ele alınmaz.
+Yapılmış gerçek işlere atıf verilir. Sayfa, Instagram reklamından gelen telefon ziyaretçisi için kurulur. Piksel ve reklam metni kapsama girmez; reklam hesabı açılınca eklenir.
 
 ## Yasaklar
 
@@ -31,11 +31,20 @@ Yapılmış gerçek işlere atıf verilir. Meta reklamı, piksel ve reklam metni
 
 Sayfa üretilmeden doldurulacaklar. Boş satır, bilinmiyor demektir; tahmin yazılmaz.
 
-- Ad:
+- Ad: Yusufmintaz (geçici; sayfada metin, sonra tek yerden değişir)
 - Şehir:
-- Telefon:
-- WhatsApp:
+- Telefon: +90 505 260 88 37
+- WhatsApp: +90 505 260 88 37 (`https://wa.me/905052608837`)
 - Gerçek işler:
+  - https://www.gunes-tekstil.com — Bursa’da tül, brode ve jakarlı kumaş üreticisinin sitesi
+  - https://www.mebelportcurtain.com — ölçüye göre perde ve tül satan site
+
+## Fiyat
+
+İlk yıl sunucu, SSL, domain ve 5 kurumsal maili kapsar. Sonraki yıllar yenilemedir. Kişisel site ve işletme sitesi basit pakettedir.
+
+- Basit site: ilk yıl 10.000 TL, sonra yılda 3.000 TL
+- E-ticaret: ilk yıl 20.000 TL, sonra yılda 6.000 TL
 
 ## Oturum
 
@@ -59,6 +68,12 @@ Klasörü Cursor’da aç. İlk mesajda bu dosya okunur. Impeccable skill’i re
 ## Günlük
 
 Yeni kayıt bu başlığın hemen altına eklenir.
+
+### 2026-11-23 sayfa
+
+- Ne bitti: Yusufmintaz tanıtım sayfası yayında olacak şekilde yazıldı. İki fiyat, Güneş Tekstil ve Mebelport, WhatsApp +90 505 260 88 37. Düz HTML. 390px genişlikte yatay kaydırma yok. WhatsApp `905052608837` numarasına, iş linkleri canlı sitelere gidiyor.
+- Sıradaki iş: Şehir hâlâ boş. Ad değişirse metindeki Yusufmintaz değişir. Piksel ve reklam metni yok.
+- Commit:
 
 ### 2026-11-23
 
